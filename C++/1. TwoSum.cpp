@@ -19,3 +19,7 @@ public:
         return {};   // return empty vector if condition fails for every element
     }
 };
+/*
+another method can be using 2 pointer techniques
+
+*/
